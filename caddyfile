@@ -1,0 +1,3 @@
+tokenprice.website {
+  reverse_proxy grafana:3000
+}
